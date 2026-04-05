@@ -81,6 +81,7 @@ Save your code as:
 ```
 main.c
 
-```bash
+```
 gcc main.c -o realestate
+
 ./realestate
