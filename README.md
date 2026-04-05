@@ -82,6 +82,7 @@ Save your code as:
 main.c
 
 ```
-gcc main.c -o realestate
+gcc main.c
 
-./realestate
+./a.exe
+
