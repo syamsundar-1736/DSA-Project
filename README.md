@@ -78,11 +78,9 @@ All operations are implemented using a **Binary Search Tree (BST)** with **price
 ### 1. Save the file
 Save your code as:
 
-```bash
+```
 main.c
 
 ```bash
 gcc main.c -o realestate
-
-```bash
 ./realestate
