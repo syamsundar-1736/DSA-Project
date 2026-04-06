@@ -87,6 +87,7 @@ gcc main.c
 ```
 ./a.exe
 
+```
 📊 Sample Output(screenshots)
 
 --- Real Estate Platform ---
