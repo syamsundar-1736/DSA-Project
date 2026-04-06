@@ -3,8 +3,8 @@
 ---
 
 ## 👥 Team Members
-- Syam Sundar  
-- Sashank
+- J.Syam Sundar  
+- T.Shasank
 
 ---
 
@@ -88,6 +88,37 @@ gcc main.c
 ./a.exe
 
 📊 Sample Output(screenshots)
+
+--- Real Estate Platform ---
+1. Add Property
+<img width="302" height="280" alt="Screenshot 2026-04-06 190113" src="https://github.com/user-attachments/assets/7fb7880b-063c-40e7-be93-e157556437eb" />
+
+2. Display Properties
+<img width="368" height="339" alt="Screenshot 2026-04-06 190207" src="https://github.com/user-attachments/assets/43550027-a375-4042-ad16-02866008ede6" />
+
+3. Search Property
+<img width="541" height="340" alt="Screenshot 2026-04-06 190326" src="https://github.com/user-attachments/assets/fe3bcf08-63fa-4421-bc5e-a3d0faa7681c" />
+
+4. Delete Property
+<img width="452" height="310" alt="Screenshot 2026-04-06 190756" src="https://github.com/user-attachments/assets/0a173d50-ad98-4df8-9677-a06fca0df44b" />
+
+5. Update Property
+<img width="383" height="289" alt="Screenshot 2026-04-06 190827" src="https://github.com/user-attachments/assets/47b6f3d4-2772-41a9-b3b8-1e5041dabdba" />
+
+6. Count Properties
+<img width="310" height="295" alt="Screenshot 2026-04-06 190910" src="https://github.com/user-attachments/assets/581d98f4-ba94-41a1-82f6-7557a5880fdc" />
+
+7. Display Above Price
+<img width="550" height="335" alt="Screenshot 2026-04-06 190935" src="https://github.com/user-attachments/assets/c9ca8cba-c42b-40f2-8b23-5d4fd02fcf88" />
+
+8. Tree Height
+<img width="379" height="295" alt="Screenshot 2026-04-06 190950" src="https://github.com/user-attachments/assets/394ad7e1-58f0-4d4c-b6b9-92a21232c04a" />
+
+9. Level Order Traversal
+<img width="550" height="318" alt="Screenshot 2026-04-06 191008" src="https://github.com/user-attachments/assets/35f9e2c6-2358-4c31-b6af-c508bf29ccee" />
+
+10. Exit
+<img width="307" height="269" alt="Screenshot 2026-04-06 191021" src="https://github.com/user-attachments/assets/06f32db3-9f0e-4469-bd84-4edae98a7ae0" />
 
 
 
