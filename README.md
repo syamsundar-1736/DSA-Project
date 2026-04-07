@@ -3,9 +3,8 @@
 ---
 
 ## 👥 Team Members
-- J.Syam Sundar  
-- T.Shasank
-
+- J.Syam Sundar Pavan Kumar Reddy
+- T.Shashank
 ---
 
 ## 📌 Project Title
