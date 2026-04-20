@@ -124,7 +124,7 @@ gcc main.c
 
 ✅ Conclusion
 
-The Real Estate Platform implemented using a Binary Search Tree (BST) provides an efficient way to manage and organize property data based on price. It ensures fast operations such as insertion, deletion, and searching while maintaining sorted order through inorder traversal. The system also supports advanced features like filtering, counting, and tree analysis, making it a practical demonstration of BST applications in real-world scenarios.
+The Real Estate Platform implemented using a Binary Search Tree (BST) provides an efficient way to manage and organize property data based on price. It ensures fast operations such as insertion, deletion, and searching while maintaining sorted order through inorder traversal. The system also supports advanced features like filtering, counting, and tree analysis, making it a practical demonstration of BST applications in real-world scenarios and easy to handle the properties.
 
 ⭐ Final Key Point:
 Using price as the BST key enables efficient sorting, searching, and management of real estate data, making the system scalable and performance-friendly.
